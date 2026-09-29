@@ -6,10 +6,6 @@ outer diameter), applying the core Lean Six Sigma toolkit: Measurement System
 Analysis, Statistical Process Control, Process Capability, Design of Experiments,
 and hypothesis testing.
 
-This project directly applies concepts from Lean Six Sigma certification
-coursework (Measure/Analyze/Improve/Control phase tools) to a realistic medical
-device manufacturing scenario, and targets the manufacturing/quality engineering
-side of medical device internship qualifications specifically.
 
 ## Define
 
